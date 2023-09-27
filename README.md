@@ -5,14 +5,29 @@
 </p>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?sername=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunamassi/)
-  [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-%232580F7?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/nyrvlivy)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nyrvlivy)
-  [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nyrvlivy)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nyrvlivy)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lulii0258@gmail.com)
+  <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/brunamassi/" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://bitbucket.org/nyrvlivy" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Bitbucket-%232580F7?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" />
+  </a>
+  <a href="https://twitter.com/nyrvlivy" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+  <a href="https://www.twitch.tv/nyrvlivy" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
+  </a>
+  <a href="https://instagram.com/nyrvlivy" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="mailto:lulii0258@gmail.com" style="margin: 0 5px;">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
 ##
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/5RTG.gif">
