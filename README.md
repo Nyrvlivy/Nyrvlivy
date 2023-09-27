@@ -2,7 +2,8 @@
 <h1 align="center">It's a-me Bruna</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5RTG.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/5RTG.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=flat" alt="nyrvlivy" /> </p>
 
