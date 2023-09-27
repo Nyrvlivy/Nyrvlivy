@@ -36,7 +36,6 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/5RTG.gif">
 
 <h3 align="left">🤗 About me:</h3>
-<br>
 
 - 🔭 I’m currently working on [sda](sda)
 
@@ -51,7 +50,7 @@
 - 📫 How to reach me **ds**
 
 - 📫 How to reach me **ds**
-<br><br>
+<br><br><br>
 
 ##
 
