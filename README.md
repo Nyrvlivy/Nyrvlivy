@@ -36,36 +36,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- Programming Languages -->
 <p align="left">
-    <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-    <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-    <code><img height="20" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-    <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-    <code><img height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-    <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-    <code><img height="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-    <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-    <code><img height="20" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
-    <code><img height="20" alt="ionic" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>
-    <code><img height="20" alt="mariadb" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></code>
-    <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-    <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-    <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-    <code><img height="20" alt="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-    <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-    <code><img height="20" alt="azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-    <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-    <code><img height="20" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-    <code><img height="20" alt="xd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
-    <code><img height="20" alt="illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
-    <code><img height="20" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-    <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-    <code><img height="20" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-</p>
-
-##
-<h3 align="left">Languages and Tools:</h3>
-<!-- Programming Languages -->
-<p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>&nbsp
@@ -155,48 +125,27 @@
 
 ##
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub stats-Dracula" />
-  </a>
-  <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats-Light" />
-  </a
-  <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=dracula&layout=compact#gh-dark-mode-only" alt="GitHub stats-Dracula" />
-  </a>
-  <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=default&layout=compact#gh-light-mode-only" alt="GitHub stats-Light" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub stats-Dracula" />
+      </a>
+      <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats-Light" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=dracula&layout=compact#gh-dark-mode-only" alt="GitHub stats-Dracula" />
+      </a>
+      <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=default&layout=compact#gh-light-mode-only" alt="GitHub stats-Light" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>&nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>&nbsp;
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>&nbsp;
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>&nbsp;
-</p>
 
 
 
