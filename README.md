@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
 <p align="center">
-  <img width="100px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" />
+  <img width="90px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" />
   <h1 align="center">It's a-me Bruna</h1>
 </p>
 <h3 align="center">A passionate backend developer from Brazil</h3>
