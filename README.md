@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
 <h1 align="center">It's a-me Bruna</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/5RTG">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5RTG.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=flat" alt="nyrvlivy" /> </p>
 
