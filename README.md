@@ -4,8 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/5RTG.gif">
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=flat" alt="nyrvlivy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=flat" alt="nyrvlivy" /> </p>
 
 - 🔭 I’m currently working on [sda](sda)
 
