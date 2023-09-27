@@ -46,10 +46,11 @@
 - 📫 How to reach me **ds**
 
 - 📫 How to reach me **ds**
+<br><br>
 
 ##
 
-<h3 align="center">🛠️  Languages and Tools:</h3>
+<h3 align="center">🛠️&nbsp&nbspLanguages and Tools&nbsp&nbsp🛠️</h3>
 <!-- Programming Languages -->
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
