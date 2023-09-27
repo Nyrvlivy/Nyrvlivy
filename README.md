@@ -129,24 +129,20 @@
   <tr>
     <td>
       <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub stats-Dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=dracula&hide=contribs&hide_rank=true#gh-dark-mode-only" alt="GitHub stats-Dracula" />
       </a>
       <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats-Light" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=default&hide=contribs&hide_rank=true#gh-light-mode-only" alt="GitHub stats-Light" />
       </a>
     </td>
     <td>
       <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=dracula&layout=compact#gh-dark-mode-only" alt="GitHub stats-Dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=dracula&layout=compact&hide=contribs&hide_rank=true#gh-dark-mode-only" alt="GitHub stats-Dracula" />
       </a>
       <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=default&layout=compact#gh-light-mode-only" alt="GitHub stats-Light" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=default&layout=compact&hide=contribs&hide_rank=true#gh-light-mode-only" alt="GitHub stats-Light" />
       </a>
     </td>
   </tr>
 </table>
-
-
-
-
 
