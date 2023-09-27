@@ -1,33 +1,35 @@
 [![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
+
 <p align="center">
-  <img width="90px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" />
+  <img width="90px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
   <h1 align="center">It's a-me Bruna</h1>
 </p>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-  <p align="center">
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/brunamassi/" style="margin: 0 5px;">
+  <a href="https://www.linkedin.com/in/brunamassi/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://bitbucket.org/nyrvlivy" style="margin: 0 5px;">
+  <a href="https://bitbucket.org/nyrvlivy">
     <img src="https://img.shields.io/badge/Bitbucket-%232580F7?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" />
   </a>
-  <a href="https://twitter.com/nyrvlivy" style="margin: 0 5px;">
+  <a href="https://twitter.com/nyrvlivy">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://www.twitch.tv/nyrvlivy" style="margin: 0 5px;">
+  <a href="https://www.twitch.tv/nyrvlivy">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
   </a>
-  <a href="https://instagram.com/nyrvlivy" style="margin: 0 5px;">
+  <a href="https://instagram.com/nyrvlivy">
     <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="mailto:lulii0258@gmail.com" style="margin: 0 5px;">
+  <a href="mailto:lulii0258@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
+
 
 ##
 
