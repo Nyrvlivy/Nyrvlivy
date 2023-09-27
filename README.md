@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **sad**
 
-- 👯 I’m looking to collaborate on [asd](sda)
-
-- 🤝 I’m looking for help with [dsa](dsa)
-
 - 👨‍💻 All of my projects are available at [sad](sad)
 
 - 📝 I regularly write articles on [das](das)
@@ -21,10 +17,6 @@
 - 💬 Ask me about **sda**
 
 - 📫 How to reach me **ds**
-
-- 📄 Know about my experiences [sda](sda)
-
-- ⚡ Fun fact **dsa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
