@@ -170,3 +170,4 @@
   </tr>
 </table>
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/output/github-contribution-grid-snake.svg" />
