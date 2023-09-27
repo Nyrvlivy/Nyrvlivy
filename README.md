@@ -1,6 +1,7 @@
 [![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
 <h1 align="center">It's a-me Bruna</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/5RTG.gif">
 
