@@ -125,7 +125,7 @@
 
 ##
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
@@ -145,6 +145,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
