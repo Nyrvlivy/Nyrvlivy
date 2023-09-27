@@ -1,7 +1,8 @@
 [![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
 <h1 align="center">It's a-me Bruna</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<div align="right" style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/5RTG" width="400" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5RTG.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=flat" alt="nyrvlivy" /> </p>
 
