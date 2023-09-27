@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
 <p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+  <img width="100px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/coin.gif" align="center" alt="GitHub Readme Stats" />
   <h1 align="center">It's a-me Bruna</h1>
 </p>
 <h3 align="center">A passionate backend developer from Brazil</h3>
@@ -133,10 +133,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nyrvlivy&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats-Light" />
   </a
   <a href="https://github.com/nyrvlivy/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=dracula&layout=donut#gh-dark-mode-only" alt="GitHub stats-Dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=dracula&layout=compact#gh-dark-mode-only" alt="GitHub stats-Dracula" />
   </a>
   <a href="https://github.com/nyrvlivy/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=default&layout=donut#gh-light-mode-only" alt="GitHub stats-Light" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrvlivy&show_icons=true&theme=default&layout=compact#gh-light-mode-only" alt="GitHub stats-Light" />
   </a>
 </div>
 
