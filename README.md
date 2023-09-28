@@ -1,4 +1,4 @@
-'-'[![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
+, '-'[![MasterHead](https://i.imgur.com/v07PFOG.jpg)](https://i.imgur.com/v07PFOG.jpg)
 
 <p align="center">
   <img width="90px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
@@ -174,6 +174,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
 </p>
 
-<div>
-  ![Snake animation](https://github.com/nyrvlivy/nyrvlivy/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/nyrvlivy/nyrvlivy/blob/output/github-contribution-grid-snake.svg)
