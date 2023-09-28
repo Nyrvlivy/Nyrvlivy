@@ -47,7 +47,7 @@
 
 - 💬 Ask me about **Java**.
 
-- ⭐ I love **Games** and **Animes!**
+- ⭐ I love **Art**, **Games** and **Animes!**
 
 - 📫 Contact Me: [brumassiip@gmail.com](mailto:brumassiip@gmail.com)
 <br><br><br>
