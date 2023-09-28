@@ -173,8 +173,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
 </p>
-
-![Snake animation](https://github.com/Nyrvlivy/Nyrvlivy/blob/output/github-contribution-grid-snake.gif)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Nyrvlivy&repo=Nyrvlivy&theme=react)](https://github.com/Nyrvlivy/Nyrvlivy)
-
