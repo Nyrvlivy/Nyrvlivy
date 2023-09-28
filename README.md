@@ -175,5 +175,5 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyrvlivy/Nyrvlivy/raw/output/github-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nyrvlivy/nyrvlivy/raw/output/github-snake.svg">
 </picture>
