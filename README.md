@@ -174,4 +174,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
 </p>
 
-![snake animation](https://github.com/Nyrvlivy/Nyrvlivy/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-contribution-grid-snake.svg">
+</picture>
