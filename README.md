@@ -170,7 +170,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
 
 </p>
