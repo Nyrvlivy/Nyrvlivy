@@ -25,7 +25,7 @@
   <a href="https://instagram.com/nyrvlivy">
     <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="mailto:lulii0258@gmail.com">
+  <a href="mailto:brumassiip@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
@@ -37,19 +37,19 @@
 
 <h3 align="left">🤗 About me:</h3>
 
-- 🔭 I’m currently working on [sda](sda)
+- 🔭 I'm currently studying at **Cubos Academy**.
 
-- 🌱 I’m currently learning **sad**
+- 🌱 I’m currently learning **Node.js, REST API & SQL**.
 
-- 👨‍💻 All of my projects are available at [sad](sad)
+- 👨‍💻 I'm available for **Freelance Work** and **Quotes**.
 
-- 📝 I regularly write articles on [das](das)
+- 🥰 I really enjoy **Data Analysis** and **Modeling**.
 
-- 💬 Ask me about **sda**
+- 💬 Ask me about **Java**.
 
-- 📫 How to reach me **ds**
+- ⭐ I love **Games** and **Animes!**
 
-- 📫 How to reach me **ds**
+- 📫 Contact Me: [brumassiip@gmail.com](mailto:brumassiip@gmail.com)
 <br><br><br>
 
 ##
