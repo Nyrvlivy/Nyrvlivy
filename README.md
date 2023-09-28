@@ -171,5 +171,6 @@
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
+
 </p>
