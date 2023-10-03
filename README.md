@@ -1,19 +1,9 @@
-<div align="center"> 
-  <a href="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg#gh-light-mode-only">
-    <img
-      src="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg"
-      srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg 1x, https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg 2x"
-      alt="GitHub Banner (Light Mode)"
-    />
-  </a>
-  
-  <a href="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg#gh-darkt-mode-only">
-    <img
-      src="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg"
-      srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg 1x, https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg 2x"
-      alt="GitHub Banner (Dark Mode)"
-    />
-  </a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg">
+    <img alt="Banner do GitHub" src="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg">
+  </picture>
 </div>
 
 ##
