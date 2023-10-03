@@ -1,18 +1,13 @@
-<a href="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg">
-  <img
-    src="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg"
-    srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg 1x, https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg 2x"
-    alt="GitHub Banner (Light Mode)"
-  />
-</a>
+<div align="center">
+  <a href="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg">
+    <img src="https://github.com/Nyrvlivy/Nyrvlivy/raw/main/day-banner.jpg" alt="Banner do GitHub (Modo Claro)" />
+  </a> 
+  <a href="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg">
+    <img src="https://github.com/Nyrvlivy/Nyrvlivy/raw/main/night-banner.jpg" alt="Banner do GitHub (Modo Escuro)" />
+  </a>  
+</div>
 
-<a href="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg">
-  <img
-    src="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg"
-    srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg 1x, https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg 2x"
-    alt="GitHub Banner (Dark Mode)"
-  />
-</a>
+##
 
 <p align="center">
   <img width="90px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
