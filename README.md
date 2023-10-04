@@ -123,6 +123,9 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>&nbsp&nbsp&nbsp
+    <a href="https://www.beekeeperstudio.io" target="_blank" rel="noreferrer">
+        <img src="https://i.imgur.com/Fz9MqTB.png" alt="Beekeeper Studio" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
 <!-- Devops -->
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
