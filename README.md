@@ -81,7 +81,7 @@
     <!-- Devops -->
     <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
     <!-- Software -->
-    <img src="https://skillicons.dev/icons?i=figma,xd,postman," />
+    <img src="https://skillicons.dev/icons?i=figma,xd,postman" />
     <!-- Sistema -->
     <img src="https://skillicons.dev/icons?i=linux,git" />
   </a>
