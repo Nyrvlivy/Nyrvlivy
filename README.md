@@ -75,13 +75,17 @@
     <!-- Frontend Development -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
     <!-- Mobile App Development -->
-    <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%/>
+    <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%" />
     <!-- Database -->
+    <img src="https://i.imgur.com/ui0edp1.png" width="48" style="max-width: 100%" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+    <img src="https://i.imgur.com/Dmjryv7.png" width="48" style="max-width: 100%" />
+    <img src="https://i.imgur.com/PehgQl4.png" width="48" style="max-width: 100%" />
     <!-- Devops -->
     <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
     <!-- Software -->
-    <img src="https://skillicons.dev/icons?i=figma,xd,postman" />
+    <img src="https://skillicons.dev/icons?i=postman,figma,xd" />
+    <img src="https://i.imgur.com/N2j00jI.png" width="48" style="max-width: 100%" />
     <!-- Sistema -->
     <img src="https://skillicons.dev/icons?i=linux,git" />
   </a>
