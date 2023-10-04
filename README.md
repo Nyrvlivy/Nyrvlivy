@@ -75,7 +75,7 @@
     <!-- Frontend Development -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
     <!-- Mobile App Development -->
-    <img src="https://skillicons.dev/icons?i=ionic" />
+    <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%/>
     <!-- Database -->
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
     <!-- Devops -->
