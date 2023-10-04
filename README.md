@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/night-banner.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg">
-    <img alt="Banner do GitHub" src="https://github.com/Nyrvlivy/Nyrvlivy/blob/main/day-banner.jpg">
-  </picture>
+  <img alt="GitHub Banner" src="https://imgur.com/a/cd3SiQN">
 </div>
 
 ##
