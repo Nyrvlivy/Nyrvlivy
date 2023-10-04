@@ -77,7 +77,7 @@
     <!-- Mobile App Development -->
     <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%" />
     <!-- Database -->
-    <img src="https://i.imgur.com/ui0edp1.png" width="48" style="max-width: 100%" />
+    <img src="https://i.imgur.com/p3fBFve.png" width="48" style="max-width: 100%" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
     <img src="https://i.imgur.com/Dmjryv7.png" width="48" style="max-width: 100%" />
     <img src="https://i.imgur.com/PehgQl4.png" width="48" style="max-width: 100%" />
