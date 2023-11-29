@@ -57,7 +57,7 @@
 
 - ⭐ I love **Art**, **Games** and **Animes!**
 
-- 📫 Contact Me: [brumassiip@gmail.com](mailto:brumassiip@gmail.com)
+- 📫 Contact Me: [dev.brunamassi@gmail.com](mailto:dev.brunamassi@gmail.com)
 <br><br><br>
 
 ##
