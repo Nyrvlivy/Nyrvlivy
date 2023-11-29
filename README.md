@@ -33,7 +33,7 @@
   <a href="https://instagram.com/nyrvlivy">
     <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="mailto:brumassiip@gmail.com">
+  <a href="mailto:dev.brunamassi@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
