@@ -93,8 +93,6 @@
 
 ##
 
-
-
 <h3 align="center">🐍&nbsp&nbspActivity&nbsp&nbsp🐍</h3>
 
 ##
@@ -106,6 +104,12 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nyrvlivy/Nyrvlivy/output/github-contribution-grid-snake.svg">
   </picture>
   
+##
+
+<h3 align="center">📈&nbsp&nbspOverview&nbsp&nbsp📈</h3>
+
+##
+
   <table align="center">
   <tr>
     <td>
