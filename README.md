@@ -147,7 +147,7 @@ Documentação: <a href="https://challenge-backend-05.cyclic.app/api-docs/#/" ta
 
 <hr>
 
-### [FunctionalBankingSystemAPI](https://github.com/Nyrvlivy/StoreSyncAPI)
+### [FunctionalBankingSystemAPI](https://github.com/Nyrvlivy/Functional-Banking-System-REST-API)
 <p>A Node.js RESTful API built with Express for the control and management of banking operations. Featuring CRUD functionalities, it manages accounts, executes transfers, deposits, and withdrawals, while also providing balance inquiries and transaction history generation (statement).<p>
 
 ###### keywords: `Node.js` `Express` `JavaScript` `CRUD`
