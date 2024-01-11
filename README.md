@@ -47,7 +47,7 @@
 
 - 🔭 I'm currently studying at **Cubos Academy**.
 
-- 🌱 I’m currently learning **Node.js, REST API, TypeScript, ORM & SQL**.
+- 🌱 I’m currently learning **Java, Docker, MongoDB**.
 
 - 👨‍💻 I'm available for **Freelance Work** and **Quotes**.
 
