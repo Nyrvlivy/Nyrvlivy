@@ -69,23 +69,17 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,php" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
     <!-- Backend Development -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
     <!-- Frontend Development -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
     <!-- Mobile App Development -->
     <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%" />
     <!-- Database -->
-    <img src="https://i.imgur.com/p3fBFve.png" width="48" style="max-width: 100%" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    <img src="https://i.imgur.com/Dmjryv7.png" width="48" style="max-width: 100%" />
-    <img src="https://i.imgur.com/PehgQl4.png" width="48" style="max-width: 100%" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     <!-- Devops -->
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
-    <!-- Software -->
-    <img src="https://skillicons.dev/icons?i=postman,figma,xd" />
-    <img src="https://i.imgur.com/N2j00jI.png" width="48" style="max-width: 100%" />
+    <img src="https://skillicons.dev/icons?i=docker" />
     <!-- Sistema -->
     <img src="https://skillicons.dev/icons?i=linux,git" />
   </a>
