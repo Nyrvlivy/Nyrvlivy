@@ -130,6 +130,30 @@
     </td>
   </tr>
 </table>
+
+<h3 align="center">🚀&nbsp&nbspSome Projects&nbsp&nbsp🚀</h3>
+
+##
+
+<div align="left">
+
+### [PDVSystemAPI](https://github.com/Nyrvlivy/PDV-System-REST-API)
+<p>PDV System is a pilot RESTful API for point-of-sale, built with Node.js and Express. It provides secure authentication and CRUD for category, customer, order, and product management. It offers automated and custom email alerts via nodemailer/Handlebars and cloud image storage with PostgreSQL and Backblaze. As the project leader, we adopted the agile SCRUM methodology and documented the API with Swagger.<p>
+
+Deploy: <a href="https://challenge-backend-05.cyclic.app/" target="_blank" rel="noopener noreferrer">Cyclic</a><br>
+Documentação: <a href="https://challenge-backend-05.cyclic.app/api-docs/#/" target="_blank" rel="noopener noreferrer">Swagger</a><br>
+###### keywords: `Node.js` `Express` `JavaScript` `PostgreSQL` `CRUD` `AWS SDK` `bcrypt` `CORS` `Joi` `Knex` `JSON Web Token` `multer` `nodemailer` `Handlebars` `Backblaze` `Agile` `SCRUM` `Multitier architecture` `API Documentation (Swagger)`
+
+<hr>
+
+### [StoreSyncAPI](https://github.com/Nyrvlivy/StoreSyncAPI)
+<p>Java RESTful API, built with Spring Boot 3 and Feign Client for efficient consumption of external APIs, data processing, and storage in PostgreSQL. Implements DTO patterns and CRUD operations, with integrated documentation in Swagger.<p>
+
+###### keywords: `Java` `Spring Boot` `Spring Web` `OpenFeign` `Lombok` `Cloud LoadBalancer` `PostgreSQL` `CRUD` `Data Transfer Objects (DTO)` `Gradle - Groovy` `API Documentation (Swagger)`
+
+<hr>
+
+</div>
   
   <p align="right">
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
