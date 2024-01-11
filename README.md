@@ -141,9 +141,16 @@ Documentação: <a href="https://challenge-backend-05.cyclic.app/api-docs/#/" ta
 <hr>
 
 ### [StoreSyncAPI](https://github.com/Nyrvlivy/StoreSyncAPI)
-<p>Java RESTful API, built with Spring Boot 3 and Feign Client for efficient consumption of external APIs, data processing, and storage in PostgreSQL. Implements DTO patterns and CRUD operations, with integrated documentation in Swagger.<p>
+<p>A Java RESTful API built with Spring Boot 3 and Feign Client for efficient consumption of external APIs, data processing, and storage in PostgreSQL. Implements DTO patterns and CRUD operations, with integrated documentation in Swagger.<p>
 
 ###### keywords: `Java` `Spring Boot` `Spring Web` `OpenFeign` `Lombok` `Cloud LoadBalancer` `PostgreSQL` `CRUD` `Data Transfer Objects (DTO)` `Gradle - Groovy` `API Documentation (Swagger)`
+
+<hr>
+
+### [FunctionalBankingSystemAPI](https://github.com/Nyrvlivy/StoreSyncAPI)
+<p>A Node.js RESTful API built with Express for the control and management of banking operations. Featuring CRUD functionalities, it manages accounts, executes transfers, deposits, and withdrawals, while also providing balance inquiries and transaction history generation (statement).<p>
+
+###### keywords: `Node.js` `Express` `JavaScript` `CRUD`
 
 <hr>
 
