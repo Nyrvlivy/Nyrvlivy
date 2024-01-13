@@ -73,7 +73,7 @@
     <!-- Backend Development -->
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
     <!-- Frontend Development -->
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,angular" />
     <!-- Mobile App Development -->
     <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%" />
     <!-- Database -->
