@@ -78,6 +78,8 @@
     <img src="https://i.imgur.com/u2bvrUW.png" width="48" style="max-width: 100%" />
     <!-- Database -->
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <!-- Cloud -->
+    <img src="https://skillicons.dev/icons?i=aws" />
     <!-- Devops -->
     <img src="https://skillicons.dev/icons?i=docker" />
     <!-- Sistema -->
