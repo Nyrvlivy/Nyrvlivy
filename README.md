@@ -47,7 +47,7 @@
 
 - 🔭 I'm currently studying at **Cubos Academy**.
 
-- 🌱 I’m currently learning **Java - Spring, Angular, AWS**.
+- 🌱 I’m currently learning **Java Spring, Angular, AWS**.
 
 - 👨‍💻 I'm available for **Freelance Work** and **Quotes**.
 
