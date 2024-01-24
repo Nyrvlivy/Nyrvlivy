@@ -53,7 +53,7 @@
 
 - 🥰 I really enjoy **Data Analysis** and **Modeling**.
 
-- 💬 Ask me about **Java**.
+- 💬 Ask me about **Java** ☕️🔥.
 
 - ⭐ I love **Art**, **Games** and **Animes!**
 
