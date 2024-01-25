@@ -140,21 +140,21 @@ Deploy: <a href="https://challenge-backend-05.cyclic.app/" target="_blank" rel="
 Documentação: <a href="https://challenge-backend-05.cyclic.app/api-docs/#/" target="_blank" rel="noopener noreferrer">Swagger</a><br>
 ###### keywords: `Node.js` `Express` `JavaScript` `PostgreSQL` `CRUD` `AWS SDK` `bcrypt` `CORS` `Joi` `Knex` `JSON Web Token` `multer` `nodemailer` `Handlebars` `Backblaze` `Agile` `SCRUM` `Multitier architecture` `API Documentation (Swagger)`
 
-<hr>
+##
 
 ### [StoreSyncAPI](https://github.com/Nyrvlivy/StoreSyncAPI)
 <p>A Java RESTful API built with Spring Boot 3 and Feign Client for efficient consumption of external APIs, data processing, and storage in PostgreSQL. Implements DTO patterns and CRUD operations, with integrated documentation in Swagger.<p>
 
 ###### keywords: `Java` `Spring Boot` `Spring Web` `OpenFeign` `Lombok` `Cloud LoadBalancer` `PostgreSQL` `CRUD` `Data Transfer Objects (DTO)` `Gradle - Groovy` `API Documentation (Swagger)`
 
-<hr>
+##
 
 ### [FunctionalBankingSystemAPI](https://github.com/Nyrvlivy/Functional-Banking-System-REST-API)
 <p>A Node.js RESTful API built with Express for the control and management of banking operations. Featuring CRUD functionalities, it manages accounts, executes transfers, deposits, and withdrawals, while also providing balance inquiries and transaction history generation (statement).<p>
 
 ###### keywords: `Node.js` `Express` `JavaScript` `CRUD`
 
-<hr>
+##
 
 </div>
   
@@ -162,3 +162,5 @@ Documentação: <a href="https://challenge-backend-05.cyclic.app/api-docs/#/" ta
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Thank+you+for+visiting+my+profile+!" />
   </p>
 </div>
+
+
