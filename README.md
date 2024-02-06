@@ -45,7 +45,7 @@
 
 <h3 align="left">🤗 About me:</h3>
 
-- 🔭 I'm currently studying at **Cubos Academy**.
+- 🔭 I'm currently studying at **FIAP**.
 
 - 🌱 I’m currently learning **Java Spring, Angular, AWS**.
 
