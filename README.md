@@ -30,7 +30,7 @@
   <a href="https://www.twitch.tv/nyrvlivy">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
   </a>
-  <a href="https://instagram.com/nyrvlivy">
+  <a href="https://www.instagram.com/bru.massi/">
     <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   <a href="mailto:dev.brunamassi@gmail.com">
