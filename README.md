@@ -18,19 +18,19 @@
   <a href="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=nyrvlivy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/brunamassi/">
+  <a href="https://www.linkedin.com/in/brunamassi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://bitbucket.org/nyrvlivy">
+  <a href="https://bitbucket.org/nyrvlivy" target="_blank">
     <img src="https://img.shields.io/badge/Bitbucket-%232580F7?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge" />
   </a>
-  <a href="https://twitter.com/nyrvlivy">
+  <a href="https://twitter.com/nyrvlivy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://www.twitch.tv/nyrvlivy">
+  <a href="https://www.twitch.tv/nyrvlivy" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge" />
   </a>
-  <a href="https://www.instagram.com/bru.massi/">
+  <a href="https://www.instagram.com/bru.massi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-%23ED1A79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   <a href="mailto:dev.brunamassi@gmail.com">
