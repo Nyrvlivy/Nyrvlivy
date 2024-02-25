@@ -136,23 +136,21 @@
 ### [PDVSystemAPI](https://github.com/Nyrvlivy/PDV-System-REST-API)
 <p>PDV System is a pilot RESTful API for point-of-sale, built with Node.js and Express. It provides secure authentication and CRUD for category, customer, order, and product management. It offers automated and custom email alerts via nodemailer/Handlebars and cloud image storage with PostgreSQL and Backblaze. As the project leader, we adopted the agile SCRUM methodology and documented the API with Swagger.<p>
 
-Deploy: <a href="https://challenge-backend-05.cyclic.app/" target="_blank" rel="noopener noreferrer">Cyclic</a><br>
-Documentação: <a href="https://challenge-backend-05.cyclic.app/api-docs/#/" target="_blank" rel="noopener noreferrer">Swagger</a><br>
 ###### keywords: `Node.js` `Express` `JavaScript` `PostgreSQL` `CRUD` `AWS SDK` `bcrypt` `CORS` `Joi` `Knex` `JSON Web Token` `multer` `nodemailer` `Handlebars` `Backblaze` `Agile` `SCRUM` `Multitier architecture` `API Documentation (Swagger)`
 
 ##
 
-### [StoreSyncAPI](https://github.com/Nyrvlivy/StoreSyncAPI)
-<p>A Java RESTful API built with Spring Boot 3 and Feign Client for efficient consumption of external APIs, data processing, and storage in PostgreSQL. Implements DTO patterns and CRUD operations, with integrated documentation in Swagger.<p>
+### [FinanceControlAPI](https://github.com/Nyrvlivy/FinanceControlAPI)
+<p>FinanceControlAPI é uma API RESTful em Java, desenvolvida com Spring Boot para o gerenciamento de transações financeiras. Possui funcionalidades para o manuseio de transações em lote e individuais, operações CRUD e filtragem de dados baseada em datas. Integra-se com uma aplicação web Angular.<p>
 
-###### keywords: `Java` `Spring Boot` `Spring Web` `OpenFeign` `Lombok` `Cloud LoadBalancer` `PostgreSQL` `CRUD` `Data Transfer Objects (DTO)` `Gradle - Groovy` `API Documentation (Swagger)`
+###### keywords: `Java` `Spring Boot` `RESTful API` `CRUD` `JPA` `JDBC` `DTO` `MySQL` `dotenv` `Integração Angular` `Maven` `Swagger`
 
 ##
 
-### [FunctionalBankingSystemAPI](https://github.com/Nyrvlivy/Functional-Banking-System-REST-API)
-<p>A Node.js RESTful API built with Express for the control and management of banking operations. Featuring CRUD functionalities, it manages accounts, executes transfers, deposits, and withdrawals, while also providing balance inquiries and transaction history generation (statement).<p>
+### [FinanceControl](https://github.com/Nyrvlivy/FinanceControl)
+<p>FinanceControl é uma aplicação web Angular para o gerenciamento de transações financeiras, com recursos para manuseio de transações em lote e individuais, operações CRUD e filtragem de dados baseada em datas. Esta aplicação se integra à API backend Spring Boot.<p>
 
-###### keywords: `Node.js` `Express` `JavaScript` `CRUD`
+###### keywords: `Angular` `SCSS` `Angular Material` `TypeScript` `RxJS`
 
 ##
 
