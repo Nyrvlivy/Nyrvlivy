@@ -143,7 +143,7 @@
 ### [FinanceControlAPI](https://github.com/Nyrvlivy/FinanceControlAPI)
 <p>FinanceControlAPI é uma API RESTful em Java, desenvolvida com Spring Boot para o gerenciamento de transações financeiras. Possui funcionalidades para o manuseio de transações em lote e individuais, operações CRUD e filtragem de dados baseada em datas. Integra-se com uma aplicação web Angular.<p>
 
-###### keywords: `Java` `Spring Boot` `RESTful API` `CRUD` `JPA` `JDBC` `DTO` `MySQL` `dotenv` `Integração Angular` `Maven` `Swagger`
+###### keywords: `Java` `Spring Boot` `RESTful API` `CRUD` `JPA` `JDBC` `DTO` `MySQL` `dotenv` `Integração Angular` `Maven` `Documentation (Swagger)`
 
 ##
 
