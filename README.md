@@ -47,7 +47,7 @@
 
 - 🔭 I'm currently studying at **FIAP**.
 
-- 🌱 I’m currently learning **Java Spring, Angular, AWS**.
+- 🌱 I’m currently learning **Java Spring, Angular, AWS, Docker**.
 
 - 👨‍💻 I'm available for **Freelance Work** and **Quotes**.
 
