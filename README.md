@@ -57,6 +57,8 @@
 
 - ⭐ I love **Art**, **Games** and **Animes!**
 
+- 💘 I also love creating tech content and helping developers like me 🤗
+
 - 📫 Contact Me: [dev.brunamassi@gmail.com](mailto:dev.brunamassi@gmail.com)
 <br><br><br>
 
